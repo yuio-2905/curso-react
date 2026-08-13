@@ -1,0 +1,26 @@
+.contenedor_perfil{
+    display: block;
+    margin: 10px;
+    border: 1px solid #bfbfbf;
+    width: 600px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 5px #ababab;
+}
+.perfil{
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+
+}
+.texto{
+    margin: 5px;
+}
+.nombre{
+    size: 40px;
+    font-weight: bold;
+}
+.profesion{
+    size: 30px;
+    font-weight: 400;
+}

@@ -1,0 +1,38 @@
+.contenedor{
+    display: block;
+    width: 400px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px auto;
+    box-shadow: 0 0 5px 5px #a38282b0;
+    transition: all 0.45s;
+}
+.contenedor>h1,h3,p{
+    margin: 2px 0px;
+}
+.contenedor>img{
+    display: block;
+    width: 120px;
+    margin: 0 auto;
+}
+.contenedor>p{
+    text-align: justify;
+}
+.caro{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: red;
+}
+.barato{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: greenyellow;
+}
+.contenedor:hover{
+    color: #c4c4c4;
+}
